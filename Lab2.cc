@@ -12,7 +12,7 @@ int main() {
 	int b=7;
 	int result=a+b;
 // Wypisuje wynik działania
-cout <<"The sum of two number is: "<<result<<endl;
-//cout<< "\230";
-return 0;
+	cout <<"The sum of two number is: "<<result<<endl;
+	//cout<< "\230";
+	return 0;
 }
